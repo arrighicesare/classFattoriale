@@ -10,7 +10,7 @@ namespace testFattoriale
         [TestMethod]
         public void TestMethod1()
         {
-            int i = 5;
+            int i = 1;
 
             int risultatoaspettato = classFatt.classFattor.Fattoriale(i);
 
